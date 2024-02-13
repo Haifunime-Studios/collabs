@@ -1,6 +1,6 @@
 # WELCOME TO COLLABS REPOSITORY
 
 
-# Comment collaborer avec nous ?
+# How to collaborate with us?
 
-Pour cela rien de plus simple. Peu importe la méthode que vous utilisez pour développer en SKRIPT, nous vous fournisons une documentation via [GITBOOK](https://haifunime.gitbook.io/docs-for-collaborators/) afin de vous aider à comprendre les méthodes que nous utilisions chez Haifunime.
+It could not be easier. No matter what method you use to develop in SKRIPT, we provide documentation via [GITBOOK](https://haifunime.gitbook.io/docs-for-collaborators/) to help you understand the methods we used at Haifunime.
